@@ -34,7 +34,7 @@ Explore the future of web development with the Eurecah Clone project. This clone
 
 -  **Featured Section:**  - Showcase key features or highlights of the website. - Utilize interactive elements for an enhanced user experience.
 
-[![featured]](https://github.com/user-attachments/assets/07e20e2e-49bb-41ed-91dd-a19ca337bc66)]()
+[![featured](https://github.com/user-attachments/assets/07e20e2e-49bb-41ed-91dd-a19ca337bc66)]()
 
 
 
