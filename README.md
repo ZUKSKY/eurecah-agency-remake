@@ -14,18 +14,19 @@ Explore the future of web development with the Eurecah Clone project. This clone
 
 ## Features
 
+- **Awesome Hero Section:**  - Engage users with a visually stunning hero section. - Utilizes impactful imagery and dynamic elements.
+
+[![hero](https://github.com/user-attachments/assets/c00e353e-23d3-457b-9ec1-03bf65c9f80f)]()
+
+<br/>
+
 -  **Modern Web Development Showcase:**  - Explore the latest trends and techniques in web 	development. - Demonstrates state-of-the-art design principles.
 
 
-[![featured2](#)]()
+[![featured2](https://github.com/user-attachments/assets/962ee14e-34a7-499b-b4c2-70c49076fd0b)]()
 
 <br/>
 
-- **Awesome Hero Section:**  - Engage users with a visually stunning hero section. - Utilizes impactful imagery and dynamic elements.
-
-[![hero](#)]()
-
-<br/>
 
 -  **Awesome Landing Animation:**  - Impress users with an outstanding landing animation. - Grab attention and create a memorable user experience.
 
@@ -33,7 +34,7 @@ Explore the future of web development with the Eurecah Clone project. This clone
 
 -  **Featured Section:**  - Showcase key features or highlights of the website. - Utilize interactive elements for an enhanced user experience.
 
-[![featured](#)]()
+[![featured]](https://github.com/user-attachments/assets/07e20e2e-49bb-41ed-91dd-a19ca337bc66)]()
 
 
 
