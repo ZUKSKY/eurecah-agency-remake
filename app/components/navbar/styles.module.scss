@@ -1,0 +1,60 @@
+
+.navItem{
+  border: 2px solid #fafafa42;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  border-radius: 30px;
+}
+
+
+.button{
+  margin: 0;
+  width: 36px;
+  height: 36px;
+  border-radius: 100%;
+  border: 1px solid #fafafa42;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+
+  &:hover{
+      border: 1px solid #fafafa;
+  }
+}
+
+.burger{
+  width: 100%;
+  &::after, &::before{
+      content: "";
+      display: block;
+      height: 1px;
+      width: 40%;
+      margin: auto;
+      background-color: white;
+      position: relative;
+      transition: transform 0.3s;
+  }
+
+  &::after{
+      top: -3px;
+  }
+
+  &::before{
+      top: 3px;
+  }
+}
+
+.burgerActive{
+
+  &::after{
+      transform: rotate(45deg);
+      top: -1px;
+  }
+
+  &::before{
+      transform: rotate(-45deg);
+      top: 0px;
+  }
+  
+}

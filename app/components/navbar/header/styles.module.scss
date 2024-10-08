@@ -1,0 +1,48 @@
+.item{
+  font-family: 'Helvetica Neue',  Helvetica , sans-serif;
+  font-size: 3rem;
+  font-weight: 500;
+  color: #fff;
+  -webkit-text-stroke-width: 3px;
+  letter-spacing: -1px;
+  display: flex;
+  transform: scaleY(1.2);
+  overflow: hidden;
+
+  &:nth-child(2){
+    transform: translateY(50%);
+  }
+  
+  @media (min-width: 1024px) {
+    font-size: 6rem;
+    -webkit-text-stroke-width: 5px;
+    letter-spacing: -3px;
+    
+  }
+}
+
+.navIcons{
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #fafafa42;
+  border-radius: 100%;
+  opacity: 0.7;
+
+  &:hover{
+    border: 2px solid #fafafa75;
+    opacity: 1;
+  }
+}
+
+.navItem{
+  border: 2px solid #fafafa42;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  border-radius: 30px;
+
+  &:hover{
+    border: 2px solid #fafafa75;
+  }
+}

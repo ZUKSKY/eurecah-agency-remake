@@ -1,0 +1,36 @@
+.headingtext{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    color : #fff;
+    font-weight: 600;
+    position: relative;
+
+    .heroline{
+        font-size: 3rem;
+        -webkit-text-stroke-width: 4px;
+        transform: scaleY(1.2);
+        line-height: 1.2;
+        letter-spacing: 2px;
+
+        @media (min-width: 512px) {
+            font-size: 3rem;
+        }
+
+        @media (min-width: 768px) {
+            font-size: 4rem;
+        }
+
+        @media (min-width: 1024px) {
+            font-size: 5rem;
+            -webkit-text-stroke-width: 6px;
+        }
+
+        @media (min-width: 1280px) {
+            font-size: 10vw;
+            -webkit-text-stroke-width: 8px;
+        }
+    }
+}
